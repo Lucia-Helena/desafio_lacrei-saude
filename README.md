@@ -66,7 +66,7 @@ GET /professionals
 
 ## Link para acessar o projeto
 
-[Plataforma Lacrei Saúde](https://lacrei-saude-fe-teste.vercel.app/)
+[Plataforma Lacrei Saúde](https://desafio-lacrei-saude-one.vercel.app/profissionais)
 
 ## Setup
 
