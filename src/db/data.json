@@ -4,8 +4,7 @@
       "id": "1",
       "name": "Dra. Ana Silva",
       "crm": "CRM-SP 0304",
-      "bio": "Como pessoa LGBTQIAPN+, considero a proposta do projeto extremamente relevante e inovadora. Decidi participar não apenas para contribuir com a minha comunidade, mas também por reconhecer a necessidade de profissionais que realmente se importam com nossas vivências e demandas.
-Apesar dos avanços dos últimos anos, ainda atuo em uma área que, na minha percepção, permanece marcada por preconceitos e práticas segregatórias. Por isso, sinto que é meu papel, como profissional, trabalhar para promover mudanças, garantindo que todas as pessoas recebam atendimento digno, respeitoso e alinhado às suas individualidades.",
+      "bio": "Como pessoa LGBTQIAPN+, considero a proposta do projeto extremamente relevante e inovadora. Decidi participar não apenas para contribuir com a minha comunidade, mas também por reconhecer a necessidade de profissionais que realmente se importam com nossas vivências e demandas. Apesar dos avanços dos últimos anos, ainda atuo em uma área que, na minha percepção, permanece marcada por preconceitos e práticas segregatórias. Por isso, sinto que é meu papel, como profissional, trabalhar para promover mudanças, garantindo que todas as pessoas recebam atendimento digno, respeitoso e alinhado às suas individualidades.",
       "identity": {
         "race": "Preta",
         "gender": "Mulher Trans",
@@ -29,8 +28,8 @@ Apesar dos avanços dos últimos anos, ainda atuo em uma área que, na minha per
     },
     {
       "id": "2",
-      "name": "Dr. Rafael Souza",
-      "crm": "CRM-RJ 4821",
+      "name": "Dr. Adriana Cunha",
+      "crm": "CRM-RJ 5421",
       "bio": "Escolhi a medicina porque acredito que cuidar é um ato de amor, compromisso e resistência. Como pessoa negra, compreendo profundamente como a desigualdade interfere no acesso à saúde e, por isso, desejo ser uma ponte entre o conhecimento técnico e o acolhimento humano. Meu propósito é oferecer não apenas tratamento, mas também escuta, respeito e atenção às histórias singulares de cada paciente.",
       "identity": {
         "race": "Parda",
@@ -38,25 +37,25 @@ Apesar dos avanços dos últimos anos, ainda atuo em uma área que, na minha per
         "sexuality": "Gay"
       },
       "specialty": "Psiquiatra",
-      "expertise": "Atuação em ansiedade, depressão e saúde mental LGBTQIA+",
+      "expertise": "Atuação em depressão e saúde mental LGBTQIA+",
       "rating": 4.8,
       "experience_years": 10,
-      "education": "Faculdade de Medicina da UFRJ",
-      "languages": ["Português", "Espanhol"],
-      "phone": "+55 (21) 98888-2222",
+      "education": "Faculdade de Medicina da UERJ",
+      "languages": ["Português", "Inglês"],
+      "phone": "+55 (21) 9786-9367",
       "consultation_info": {
         "procedure": "Consulta em psiquiatria",
-        "price": "R$ 350,00",
-        "address": "Rua do Catete, 200 - Rio de Janeiro, RJ",
-        "available_times": ["09:00", "11:00", "13:00", "16:00", "18:00"]
+        "price": "R$ 250,00",
+        "address": "Rua do Amirantes, 200 - Rio de Janeiro, RJ",
+        "available_times": ["08:00", "12:00", "14:00", "17:00", "18:00"]
       },
       "payment_options": ["Convênio"],
       "picture": "pro-example"
     },
     {
       "id": "3",
-      "name": "Dra. Camila Ferreira",
-      "crm": "CRM-MG 1590",
+      "name": "Dra. Rosa Fernades",
+      "crm": "CRM-MG 1780",
       "bio": "Acredito que a saúde vai além do corpo físico — envolve identidade, contexto e vivências singulares. Ao longo da minha trajetória, compreendi como um olhar verdadeiramente inclusivo pode transformar o cuidado. Meu compromisso é construir um espaço seguro, onde cada paciente se sinta valorizado, reconhecido e respeitado em sua individualidade.",
       "identity": {
         "race": "Branca",
@@ -69,11 +68,11 @@ Apesar dos avanços dos últimos anos, ainda atuo em uma área que, na minha per
       "experience_years": 12,
       "education": "Faculdade de Ciências Médicas da UNICAMP",
       "languages": ["Português", "Inglês", "Francês"],
-      "phone": "+55 (19) 97777-3333",
+      "phone": "+55 (19) 89765-3389",
       "consultation_info": {
         "procedure": "Consulta em ginecologia",
-        "price": "R$ 400,00",
-        "address": "Rua Barão de Itapura, 1500 - Campinas, SP",
+        "price": "R$ 300,00",
+        "address": "Rua Silva Campos, 1500 - Campinho, SP",
         "available_times": ["08:00", "10:00", "14:00", "15:00", "17:00"]
       },
       "payment_options": ["Particular"],
@@ -81,25 +80,25 @@ Apesar dos avanços dos últimos anos, ainda atuo em uma área que, na minha per
     },
     {
       "id": "4",
-      "name": "Dr. João Pereira",
-      "crm": "CRM-BA 7723",
-      "bio": "Desde cedo entendi que a medicina precisava ser mais diversa e representativa. Trabalhar com saúde não é apenas aplicar protocolos, mas enxergar pessoas em sua totalidade. Quero ser parte da mudança que torna o sistema de saúde mais humano, inclusivo e consciente das diferentes realidades sociais.",
+      "name": "Dr. Guilherme Reis",
+      "crm": "CRM-BA 7943",
+      "bio": "Desde cedo compreendi que a medicina precisava ser mais diversa e representativa. Trabalhar com saúde vai muito além de aplicar protocolos — é reconhecer pessoas em sua totalidade. Desejo contribuir para uma transformação que torne o sistema de saúde mais humano, inclusivo e atento às diferentes realidades sociais.",
       "identity": {
-        "race": "Indígena",
+        "race": "Negro",
         "gender": "Não Binária",
         "sexuality": "Assexual"
       },
-      "specialty": "Clínico geral",
+      "specialty": "Dermatologista",
       "expertise": "Atendimento em atenção primária com foco em prevenção e saúde comunitária",
       "rating": 4.7,
       "experience_years": 8,
-      "education": "Faculdade de Medicina da UFAM",
-      "languages": ["Português", "Línguas indígenas"],
+      "education": "Faculdade de Medicina da UNIG",
+      "languages": ["Português", "Francês"],
       "phone": "+55 (92) 96666-4444",
       "consultation_info": {
         "procedure": "Consulta clínica geral",
         "price": "R$ 250,00",
-        "address": "Av. Sete de Setembro, 300 - Manaus, AM",
+        "address": "Av. Cenador Dantas, 800 - Rio Grande, AM",
         "available_times": ["08:00", "09:30", "11:00", "14:00", "16:00"]
       },
       "payment_options": ["Convênio", "Particular"],
